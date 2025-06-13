@@ -1,6 +1,6 @@
-# DataScience_projects
+# Netflix Data Analysis Project
 
-Netflix Data Analysis Project
+
 Overview:
 This project involves analyzing Netflix's dataset to uncover insights into viewing habits, popular genres, and trends over time. The goal is to provide data-driven recommendations to improve content strategy, user engagement, and overall platform performance.
 
